@@ -8,8 +8,8 @@
 
 I'm a recent Computer Science graduate. I have enthusiasm in software development and experience in Java and Python development.
 
-- :telescope: I'm currently working on Spring Boot, Mybatis, JPA
-- 🌱 I’m currently learning Kubernetes
+- :telescope: I'm currently working on Spring Boot, Docker
+- 🌱 I’m currently learning Microservice
 - 👀 I’m interested in Full Stack Development
 
 
