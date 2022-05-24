@@ -9,7 +9,7 @@
 I'm a recent Computer Science graduate. I have enthusiasm in software development and experience in Java and Python development.
 
 - :telescope: I'm currently working on Spring Boot, Docker
-- 🌱 I’m currently learning Microservice
+- 🌱 I’m currently learning Microservices
 - 👀 I’m interested in Full Stack Development
 
 
