@@ -18,27 +18,35 @@ I'm a recent Computer Science graduate. I have enthusiasm in software developmen
 <code><img height="45" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-<code><img height="40" src="https://www.runoob.com/wp-content/uploads/2015/07/restful.gif"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/swift/swift-horizontal.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"></code>
-
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/clojure/clojure-ar21.svg"></code> 
-
+<code><img height="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img height="40" src="https://www.runoob.com/wp-content/uploads/2015/07/restful.gif"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+<!-- 
+<code><img height="40" src=""></code>
+<code><img height="40" src=""></code>
+<code><img height="40" src=""></code> -->
 
 
 
