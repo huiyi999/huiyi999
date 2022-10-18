@@ -5,7 +5,7 @@
 
 I'm a recent Computer Science graduate. I have enthusiasm in software development and experience in Java and Python development.
 
-- :telescope: I'm currently working on Web Development(Spring Boot, Docker)
+- :telescope: I'm currently working on Web Development, Spring Boot, Docker
 - 🌱 I’m currently learning Microservices
 - 👀 I’m interested in Full Stack Development
 
