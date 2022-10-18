@@ -3,7 +3,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=huiyi999.huiyi999&left_color=black&right_color=green)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=huiyi999)
 
-
 I'm a recent Computer Science graduate. I have enthusiasm in software development and experience in Java and Python development.
 
 - :telescope: I'm currently working on Web Development(Spring Boot, Docker)
