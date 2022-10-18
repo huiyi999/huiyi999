@@ -1,9 +1,7 @@
 ###  :wave: Hi, I’m huiyi999 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=huiyi999.huiyi999&left_color=black&right_color=green)
-[![Years Badge](https://badges.pufler.dev/years/huiyi999)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/huiyi999)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/huiyi999)](https://badges.pufler.dev)
+![Profile View Counter](https://komarev.com/ghpvc/?username=huiyi999)
 
 
 I'm a recent Computer Science graduate. I have enthusiasm in software development and experience in Java and Python development.
