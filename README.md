@@ -1,13 +1,12 @@
 ###  :wave: Hi, I’m huiyi999 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=huiyi999.huiyi999&left_color=black&right_color=green)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=huiyi999)
 
 A passionate Software Engineer!
 
-- :telescope: I'm currently working on Web Development, Spring Boot, Docker
-- 🌱 I’m currently learning Microservices
-- 👀 I’m interested in Full Stack Development
+- :telescope: I'm currently working on Web Development
+- 🌱 I’m currently learning GCP & AWS
+- 👀 I’m interested in learning new skills
 
 
 
